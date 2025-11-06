@@ -1,4 +1,4 @@
-# Python Script Toolbox
+# Python Script Toolkit
 
 A growing collection of Python scripts and command-line tools designed to automate, analyze, and simulate real-world tasks across computer science.
 
@@ -7,4 +7,5 @@ A growing collection of Python scripts and command-line tools designed to automa
 ## Repository Structure
 
 - Password Strength Checker
+
 
